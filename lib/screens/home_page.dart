@@ -39,8 +39,7 @@ class HomePage extends StatelessWidget {
         image: NetworkImage(
             "https://i.pinimg.com/originals/e3/de/f1/e3def1384e1977ba40fef4d879d73de9.png"
 
-            // "https://firebasestorage.googleapis.com/v0/b/flutterbricks-public.appspot.com/o/illustrations%2Fundraw_Working_late_re_0c3y%201.png?alt=media&token=7b880917-2390-4043-88e5-5d58a9d70555",
-
+            
             ),
       ),
     );
